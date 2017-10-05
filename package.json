@@ -1,0 +1,35 @@
+{
+  "name": "udacity",
+  "file": "perfmatters",
+  "version": "0.1.0",
+  "description": "udacity",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-autoprefixer": "^1.0.1",
+    "grunt-concurrent": "^1.0.0",
+    "grunt-contrib-jshint": "~0.7.1",
+    "grunt-filerev": "^2.1.1",
+    "grunt-newer": "~0.5.4",
+    "grunt-pagespeed": "^0.3.0",
+    "load-grunt-tasks": "~0.4.0",
+    "time-grunt": "~0.2.1",
+    "matchdep": "latest",
+    "shelljs": "latest",
+    "ngmshell": "latest",
+    "grunt-contrib-clean": "latest",
+    "grunt-contrib-concat": "latest",
+    "grunt-contrib-copy": "latest",
+    "grunt-contrib-connect": "latest",
+    "grunt-contrib-htmlmin": "latest",
+    "grunt-contrib-cssmin": "latest",
+    "grunt-contrib-imagemin": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-usemin": "latest",
+    "connect-livereload": "latest"
+  },
+  "dependencies": {
+    "express": "3.x"
+  }
+}
